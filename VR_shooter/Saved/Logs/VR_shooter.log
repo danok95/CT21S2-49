@@ -1924,3 +1924,326 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.16-04.48.09:085][ 12]LogUObjectHash: Compacting FUObjectHashTables data took  12.76ms
 [2021.09.16-04.48.10:059][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Blueprint/Player" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Player_Blueprint/Player.uasset" SILENT=true
 [2021.09.16-04.48.11:006][ 33]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/PlayerD13E7A654BD051FF9CFE4696B645DE38.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Player_Blueprint/Player.uasset'
+[2021.09.16-05.02.51:283][741]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{a7bfd822-13d2-47ad-aff5-1a1dd6c9f0fc} was removed. Shutting down audio device.
+[2021.09.16-05.02.51:283][741]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.09.16-05.06.01:115][306]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.09.16-05.08.28:174][648]LogUObjectHash: Compacting FUObjectHashTables data took   7.34ms
+[2021.09.16-05.08.28:174][648]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_0' took 0.088
+[2021.09.16-05.08.28:177][648]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player_Blueprint/Player] ([1] browsable assets)...
+[2021.09.16-05.08.28:297][648]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Player_Blueprint/Player.Player]
+[2021.09.16-05.08.28:297][648]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player_Blueprint/Player]
+[2021.09.16-05.08.28:297][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Blueprint/Player" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Autosaves/Game/Player_Blueprint/Player_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2021.09.16-05.08.28:792][648]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Player_Auto432E691E948B0006FD903F1AF2DF1327D.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Autosaves/Game/Player_Blueprint/Player_Auto4.uasset'
+[2021.09.16-05.08.28:793][648]LogFileHelpers: Auto-saving content packages took 0.617
+[2021.09.16-05.09.07:510][603]BlueprintLog: New page: Compile Player
+[2021.09.16-05.09.08:145][603]LogUObjectHash: Compacting FUObjectHashTables data took  10.67ms
+[2021.09.16-05.09.09:228][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Blueprint/Player" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Player_Blueprint/Player.uasset" SILENT=true
+[2021.09.16-05.09.11:873][622]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Player7A2E4D594F091D7C433FE0A6F7943279.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Player_Blueprint/Player.uasset'
+[2021.09.16-05.09.52:413][370]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{a7bfd822-13d2-47ad-aff5-1a1dd6c9f0fc} was removed. Shutting down audio device.
+[2021.09.16-05.09.52:499][370]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.09.16-05.11.10:436][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.16-05.18.18:490][489]BlueprintLog: New page: Compile Player
+[2021.09.16-05.18.18:907][489]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2021.09.16-05.18.22:187][557]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.16-05.18.22:215][557]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.16-05.18.22:215][557]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.16-05.18.22:216][557]PIE: New page: PIE session: Level_0 (Sep 16, 2021, 4:18:22 PM)
+[2021.09.16-05.18.22:216][557]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2021.09.16-05.18.22:246][557]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030382s)
+[2021.09.16-05.18.22:248][557]LogAIModule: Creating AISystem for world Level_0
+[2021.09.16-05.18.22:248][557]LogPlayLevel: PIE: World Init took: (0.001952s)
+[2021.09.16-05.18.22:248][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.032719s)
+[2021.09.16-05.18.22:465][557]LogUObjectHash: Compacting FUObjectHashTables data took  13.19ms
+[2021.09.16-05.18.22:478][557]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.09.16-05.18.22:528][557]LogInit: FAudioDevice initialized.
+[2021.09.16-05.18.22:567][557]LogLoad: Game class is 'VR_mode_C'
+[2021.09.16-05.18.22:580][557]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2021.09.16-10.48.22
+[2021.09.16-05.18.22:580][557]LogWorld: Bringing up level for play took: 0.011177
+[2021.09.16-05.18.22:614][557]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 0.532
+[2021.09.16-05.18.22:615][557]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.16-05.18.26:118][652]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.16-05.18.26:119][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-05.18.26:188][652]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.16-05.18.26:189][652]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.16-05.18.26:316][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-05.18.26:332][652]LogUObjectHash: Compacting FUObjectHashTables data took   9.10ms
+[2021.09.16-05.18.26:464][653]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.09.16-05.18.39:307][874]LogSlate: Window 'Plugins' being destroyed
+[2021.09.16-05.18.39:538][874]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2021.09.16-05.18.48:595][988]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.09.16-05.19.09:227][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.09.16-05.19.09:228][494]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_0' took 0.106
+[2021.09.16-05.19.09:231][494]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player_Blueprint/Player] ([1] browsable assets)...
+[2021.09.16-05.19.09:323][494]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Player_Blueprint/Player.Player]
+[2021.09.16-05.19.09:323][494]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player_Blueprint/Player]
+[2021.09.16-05.19.09:323][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Blueprint/Player" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Autosaves/Game/Player_Blueprint/Player_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2021.09.16-05.19.10:013][494]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Player_Auto5942A8A5742BBB99123C91CB2B1912900.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Autosaves/Game/Player_Blueprint/Player_Auto5.uasset'
+[2021.09.16-05.19.10:015][494]LogFileHelpers: Auto-saving content packages took 0.785
+[2021.09.16-05.24.18:625][456]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.09.16-05.25.01:700][761]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.09.16-05.25.39:617][ 23]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.09.16-05.25.40:900][ 32]LogHttp: Warning: 0000017DBBB23100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.09.16-05.25.40:900][ 32]LogHttp: Warning: 0000017DBBB23100: libcurl info message cache 0 (Connection 67 seems to be dead!)
+[2021.09.16-05.25.40:900][ 32]LogHttp: Warning: 0000017DBBB23100: libcurl info message cache 1 (Closing connection 67)
+[2021.09.16-05.25.40:900][ 32]LogHttp: Warning: 0000017DBBB23100: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2021.09.16-05.25.40:900][ 32]LogHttp: Warning: 0000017DBBB23100: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.09.16-05.25.40:900][ 32]LogHttp: Warning: 0000017DBBB23100: libcurl info message cache 4 (Closing connection 68)
+[2021.09.16-05.25.40:900][ 32]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B48615150-436E-228D-B816-C2BCB1A29F76%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=8bd3c142449a34598e8fdda43ef16537%7Cd963355b1546480dac4a9161344354b7%7C26fca21a-05a7-4e4e-a468-a979e1a5b862&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.09.16-05.26.14:686][254]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.09.16-05.26.15:759][260]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.09.16-05.28.42:166][153]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.09.16-05.28.45:402][173]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.09.16-05.28.56:766][255]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.09.16-05.29.52:735][581]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.09.16-05.30.31:631][432]Cmd: TRANSACTION UNDO
+[2021.09.16-05.30.31:632][432]LogEditorTransaction: Undo Change Key Value
+[2021.09.16-05.31.01:322][  2]LogSlate: Window 'Project Settings' being destroyed
+[2021.09.16-05.31.01:365][  2]LogSlate: Window 'Project Settings' being destroyed
+[2021.09.16-05.31.02:945][ 40]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.16-05.31.02:983][ 40]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.16-05.31.02:983][ 40]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.16-05.31.02:984][ 40]PIE: New page: PIE session: Level_0 (Sep 16, 2021, 4:31:02 PM)
+[2021.09.16-05.31.02:984][ 40]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2021.09.16-05.31.03:014][ 40]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030039s)
+[2021.09.16-05.31.03:016][ 40]LogAIModule: Creating AISystem for world Level_0
+[2021.09.16-05.31.03:016][ 40]LogPlayLevel: PIE: World Init took: (0.002385s)
+[2021.09.16-05.31.03:016][ 40]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.032812s)
+[2021.09.16-05.31.03:271][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   8.68ms
+[2021.09.16-05.31.03:282][ 40]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.09.16-05.31.03:330][ 40]LogInit: FAudioDevice initialized.
+[2021.09.16-05.31.03:369][ 40]LogLoad: Game class is 'VR_mode_C'
+[2021.09.16-05.31.03:373][ 40]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2021.09.16-11.01.03
+[2021.09.16-05.31.03:374][ 40]LogWorld: Bringing up level for play took: 0.001989
+[2021.09.16-05.31.03:393][ 40]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 1.311
+[2021.09.16-05.31.03:393][ 40]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.16-05.31.15:353][395]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.16-05.31.15:354][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-05.31.15:427][395]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.16-05.31.15:427][395]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.16-05.31.15:552][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-05.31.15:568][395]LogUObjectHash: Compacting FUObjectHashTables data took   8.52ms
+[2021.09.16-05.31.15:625][396]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.09.16-05.31.16:863][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.16-05.31.34:618][118]LogEditorTransaction: Undo Move Node
+[2021.09.16-05.31.35:153][136]LogEditorTransaction: Undo Move Node
+[2021.09.16-05.31.36:653][180]LogEditorTransaction: Undo Change Key Value
+[2021.09.16-05.31.39:053][252]LogEditorTransaction: Undo Add Axis Mapping To Group
+[2021.09.16-05.31.40:054][282]LogEditorTransaction: Undo Change Key Value
+[2021.09.16-05.31.40:920][308]LogEditorTransaction: Undo Add Axis Mapping To Group
+[2021.09.16-05.31.41:821][335]LogEditorTransaction: Undo Change Key Value
+[2021.09.16-05.31.42:853][366]LogEditorTransaction: Undo Add Axis Mapping To Group
+[2021.09.16-05.31.43:720][392]LogEditorTransaction: Undo Change Key Value
+[2021.09.16-05.31.44:520][416]LogEditorTransaction: Undo Add Axis Mapping To Group
+[2021.09.16-05.31.46:636][472]BlueprintLog: New page: Compile Player
+[2021.09.16-05.31.47:180][472]LogUObjectHash: Compacting FUObjectHashTables data took  13.55ms
+[2021.09.16-05.31.48:706][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Blueprint/Player" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Player_Blueprint/Player.uasset" SILENT=true
+[2021.09.16-05.31.49:143][509]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Player6EC75EB641DCC870A2A77C9E5B697284.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Player_Blueprint/Player.uasset'
+[2021.09.16-05.31.50:804][557]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.09.16-06.29.26:322][845]LogInit: XAudio2 using 'Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.09.16-06.29.27:161][846]LogInit: XAudio2 using 'Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.09.16-09.48.08:168][410]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{fc89ab14-f513-4f90-9817-edd37d33abbb} was removed. Shutting down audio device.
+[2021.09.16-09.48.15:896][410]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2021.09.16-09.48.16:340][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:322][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.982 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:322][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.982 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:653][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.313 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:653][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.313 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:653][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.313 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:653][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.313 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:653][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.313 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:653][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.313 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:653][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.313 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:653][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.313 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:653][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.313 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:653][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.313 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:653][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.313 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:653][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.313 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:653][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.313 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:653][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.313 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:653][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.313 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:653][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.313 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:653][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.313 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:653][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.314 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:653][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.314 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:653][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.314 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:653][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.314 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:653][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.314 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:653][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.314 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:653][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.314 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:653][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.314 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:653][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.314 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:653][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.314 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:653][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.314 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.17:653][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.314 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.18:249][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.909 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.18:249][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.909 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.18:249][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.909 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.18:249][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.909 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.18:249][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.909 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.18:249][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.909 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.18:249][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.909 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.18:249][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.909 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.18:249][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.909 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.18:249][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.909 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.18:249][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.909 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.18:249][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.909 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.18:249][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.909 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:577][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.237 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:577][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.237 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:577][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.237 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:577][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.237 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:577][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.237 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:577][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.237 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:577][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.237 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:577][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.237 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:577][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.237 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:577][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.237 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:577][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:577][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:577][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:578][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:578][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:578][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:578][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:578][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:578][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:578][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:578][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:578][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:578][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:578][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:578][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:578][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:578][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:578][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:578][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:578][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:578][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:578][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:781][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.441 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:781][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.441 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:781][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.441 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:781][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.441 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:781][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.441 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:781][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.441 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:781][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.441 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:781][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.442 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:781][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.442 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:781][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.442 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:781][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.442 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:781][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.442 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:781][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.442 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:781][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.442 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:781][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.442 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:781][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.442 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:781][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.442 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:781][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.442 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:781][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.442 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:781][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.442 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:781][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.442 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:781][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.442 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:781][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.442 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:781][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.442 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:781][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.442 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:781][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.442 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:781][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.442 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.19:781][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.442 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:098][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.758 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:098][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.758 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:482][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.142 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:482][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.142 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:482][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.142 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:482][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.142 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:482][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.142 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:482][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.142 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:482][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.142 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:482][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.142 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:482][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.142 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:482][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.142 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:482][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.142 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:706][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.366 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:706][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.366 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:706][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.366 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:706][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.366 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:706][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.366 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:706][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.366 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:706][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.366 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:706][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.366 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:706][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.366 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:706][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.366 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:706][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.366 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:706][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.366 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:706][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.366 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:706][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.366 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:706][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.366 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:706][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.366 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:706][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.366 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:706][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.366 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:706][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.366 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:706][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.366 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:706][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.366 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:706][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.366 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:706][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.366 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:706][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.366 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:706][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.366 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.20:706][410]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.366 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.21:639][410]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.09.16-09.48.39:852][418]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (23.512 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.09.16-09.48.52:602][457]LogHttp: Warning: 0000017D6295AE80: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.09.16-09.48.52:828][457]LogHttp: Warning: 0000017D6295AE80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x17d03e73f70 [can pipeline])
+[2021.09.16-09.48.52:828][457]LogHttp: Warning: 0000017D6295AE80: libcurl info message cache 1 (Re-using existing connection! (#110) with host datarouter.ol.epicgames.com)
+[2021.09.16-09.48.52:828][457]LogHttp: Warning: 0000017D6295AE80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.226.35.241) port 443 (#110))
+[2021.09.16-09.48.52:828][457]LogHttp: Warning: 0000017D6295AE80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.09.16-09.48.53:883][457]LogHttp: Warning: 0000017D6295AE80: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.09.16-09.48.53:883][457]LogHttp: Warning: 0000017D6295AE80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.09.16-09.48.53:884][457]LogHttp: Warning: 0000017D6295AE80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.09.16-09.48.53:884][457]LogHttp: Warning: 0000017D6295AE80: libcurl info message cache 7 (Closing connection 110)
+[2021.09.16-09.48.55:580][458]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B48615150-436E-228D-B816-C2BCB1A29F76%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=8bd3c142449a34598e8fdda43ef16537%7Cd963355b1546480dac4a9161344354b7%7C26fca21a-05a7-4e4e-a468-a979e1a5b862&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.09.16-09.51.16:992][625]LogUObjectHash: Compacting FUObjectHashTables data took 1207.77ms
+[2021.09.16-09.51.33:184][625]LogSlate: Window 'Save Content' being destroyed
+[2021.09.16-09.51.34:802][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_mode/VR_mode" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Game_mode/VR_mode.uasset" SILENT=true
+[2021.09.16-09.52.05:291][625]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/VR_modeBC92E44D4832B4426846059E1A8FAC49.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Game_mode/VR_mode.uasset'
+[2021.09.16-09.52.10:738][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shooter_assets/crosshair" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/crosshair.uasset" SILENT=true
+[2021.09.16-09.52.11:995][625]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/crosshairD42D32F943B12CC0162816AE6B111854.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/crosshair.uasset'
+[2021.09.16-09.52.12:506][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shooter_assets/Guns/Barrel" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Barrel.uasset" SILENT=true
+[2021.09.16-09.52.13:465][625]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/BarrelDF7CA2274C39EE8028312E8602BE749D.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Barrel.uasset'
+[2021.09.16-09.52.13:644][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shooter_assets/Guns/Dark" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Dark.uasset" SILENT=true
+[2021.09.16-09.52.13:942][625]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Dark120EE3244C6E77C21F18E9A3D6D27D30.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Dark.uasset'
+[2021.09.16-09.52.14:017][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shooter_assets/Guns/Detail" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Detail.uasset" SILENT=true
+[2021.09.16-09.52.14:420][625]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Detail7154BF1847994DB680DA50B4A6209F82.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Detail.uasset'
+[2021.09.16-09.52.14:475][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shooter_assets/Guns/Details" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Details.uasset" SILENT=true
+[2021.09.16-09.52.14:986][625]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Details75615AE34D69E0889515FA91CD9B6C07.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Details.uasset'
+[2021.09.16-09.52.15:105][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shooter_assets/Guns/Glass" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Glass.uasset" SILENT=true
+[2021.09.16-09.52.15:415][625]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Glass63AF9DD84B79CBC8CE3F6BBC16719F1E.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Glass.uasset'
+[2021.09.16-09.52.15:522][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shooter_assets/Guns/Handle" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Handle.uasset" SILENT=true
+[2021.09.16-09.52.16:090][625]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Handle01536BAC46E4346E4FBAD1BFE73AC469.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Handle.uasset'
+[2021.09.16-09.52.16:764][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shooter_assets/Guns/Lightning_Gun" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Lightning_Gun.uasset" SILENT=true
+[2021.09.16-09.52.17:992][625]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Lightning_Gun9C010533472759E0339B96B669583F8E.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Lightning_Gun.uasset'
+[2021.09.16-09.52.18:054][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shooter_assets/Guns/LongPistol" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/LongPistol.uasset" SILENT=true
+[2021.09.16-09.52.18:383][625]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/LongPistolEDB2DC53475FB1730A4ED4A93FF3DF40.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/LongPistol.uasset'
+[2021.09.16-09.52.18:642][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shooter_assets/Guns/LongPistol_small" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/LongPistol_small.uasset" SILENT=true
+[2021.09.16-09.52.18:883][625]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/LongPistol_small49FAB326494AD69BF048AFBB3FF7C418.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/LongPistol_small.uasset'
+[2021.09.16-09.52.19:017][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shooter_assets/Guns/Main" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Main.uasset" SILENT=true
+[2021.09.16-09.52.19:118][625]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Main5C5E45AA4B4EEF239A3882858D6B78A5.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Main.uasset'
+[2021.09.16-09.52.19:189][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shooter_assets/Guns/Main2" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Main2.uasset" SILENT=true
+[2021.09.16-09.52.19:503][625]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Main2168B7AF94B8D5E551396A6AE1CDFF2F1.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Main2.uasset'
+[2021.09.16-09.52.19:554][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shooter_assets/Guns/Material" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Material.uasset" SILENT=true
+[2021.09.16-09.52.19:860][625]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/MaterialE6A5809E49AC45BCE26333B7D0C88606.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Material.uasset'
+[2021.09.16-09.52.19:913][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shooter_assets/Guns/Mid" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Mid.uasset" SILENT=true
+[2021.09.16-09.52.20:501][625]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Mid84343D924D9B911868588EADFFEEB976.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Mid.uasset'
+[2021.09.16-09.52.20:632][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shooter_assets/Guns/Muzzle" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Muzzle.uasset" SILENT=true
+[2021.09.16-09.52.20:968][625]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Muzzle3979C59C4314470F8DEB77B0DA8A033D.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Muzzle.uasset'
+[2021.09.16-09.52.21:020][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shooter_assets/Guns/Pistol" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Pistol.uasset" SILENT=true
+[2021.09.16-09.52.21:625][625]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/PistolF691D495417F5D21B3B67DB0FEBE15AD.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Pistol.uasset'
+[2021.09.16-09.52.21:729][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shooter_assets/Guns/Ray_Gun" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Ray_Gun.uasset" SILENT=true
+[2021.09.16-09.52.22:076][625]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Ray_Gun554497BB4CEB26FECD526690FA643651.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Ray_Gun.uasset'
+[2021.09.16-09.52.22:195][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shooter_assets/Guns/Rifle" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Rifle.uasset" SILENT=true
+[2021.09.16-09.52.22:668][625]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/RifleFF8A120C40A753DB7DC69CBA9731FDBD.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Rifle.uasset'
+[2021.09.16-09.52.22:721][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shooter_assets/Guns/ScopeHandle" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/ScopeHandle.uasset" SILENT=true
+[2021.09.16-09.52.22:812][625]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/ScopeHandleD64597A4426886959FA6C3BF752AD8F6.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/ScopeHandle.uasset'
+[2021.09.16-09.52.22:858][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shooter_assets/Guns/Sniper_rifle" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Sniper_rifle.uasset" SILENT=true
+[2021.09.16-09.52.23:126][625]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Sniper_rifleD7906708442C9F358135C6A7CC14C931.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Sniper_rifle.uasset'
+[2021.09.16-09.52.23:308][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shooter_assets/Guns/Trigger" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Trigger.uasset" SILENT=true
+[2021.09.16-09.52.23:423][625]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/TriggerE9E5D4844FB64A86D857499E3E3F2A6F.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Shooter_assets/Guns/Trigger.uasset'
+[2021.09.16-09.52.26:395][625]LogSlate: Window 'VR_shooter - Unreal Editor' being destroyed
+[2021.09.16-09.52.26:816][625]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
