@@ -1,0 +1,1123 @@
+﻿Log file open, 09/18/21 14:44:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VR_shooter
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.380133
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=L0n3s1ar -epicuserid=d963355b1546480dac4a9161344354b7 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Config/Windows/Engine.ini]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Config/Windows/Engine.ini]
+[2021.09.18-09.14.27:788][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Config/Windows/Engine.ini]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Config/Windows/Engine.ini]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.09.18-09.14.27:788][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Config/Windows/Engine.ini]
+[2021.09.18-09.14.27:788][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Config/Windows/Engine.ini]
+[2021.09.18-09.14.27:796][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Config/Windows/Scalability.ini]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Config/Windows/Scalability.ini]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Config/Windows/Scalability.ini]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Config/Windows/Scalability.ini]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Config/Windows/Scalability.ini]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Config/Windows/Scalability.ini]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Config/Windows/Scalability.ini]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.09.18-09.14.27:796][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.09.18-09.14.27:796][  0]LogInit: Selected Device Profile: [Windows]
+[2021.09.18-09.14.27:796][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.09.18-09.14.27:840][  0]LogHAL: Display: Platform has ~ 16 GB [17041244160 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2021.09.18-09.14.27:840][  0]LogInit: Going up to parent DeviceProfile []
+[2021.09.18-09.14.27:840][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Config/Windows/Scalability.ini]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Config/Windows/Scalability.ini]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Config/Windows/Scalability.ini]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Config/Windows/Scalability.ini]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Config/Windows/Scalability.ini]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.09.18-09.14.27:840][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Config/Windows/Scalability.ini]
+[2021.09.18-09.14.27:844][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.09.18-09.14.27:844][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.09.18-09.14.27:844][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.09.18-09.14.27:844][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.09.18-09.14.27:844][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.09.18-09.14.27:844][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.09.18-09.14.27:844][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.09.18-09.14.27:844][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.09.18-09.14.27:844][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.09.18-09.14.27:844][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.09.18-09.14.27:844][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.09.18-09.14.27:844][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.09.18-09.14.27:844][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.09.18-09.14.27:844][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Config/Windows/Scalability.ini]
+[2021.09.18-09.14.27:844][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.09.18-09.14.27:844][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.09.18-09.14.27:844][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.09.18-09.14.27:844][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.09.18-09.14.27:844][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.09.18-09.14.27:844][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Config/Windows/Engine.ini]
+[2021.09.18-09.14.27:847][  0]LogInit: Computer: LAPTOP-OI2QLG43
+[2021.09.18-09.14.27:847][  0]LogInit: User: aaddy
+[2021.09.18-09.14.27:847][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.09.18-09.14.27:847][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.09.18-09.14.27:847][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.09.18-09.14.27:847][  0]LogMemory: Platform Memory Stats for Windows
+[2021.09.18-09.14.27:847][  0]LogMemory: Process Physical Memory: 100.56 MB used, 100.56 MB peak
+[2021.09.18-09.14.27:847][  0]LogMemory: Process Virtual Memory: 89.02 MB used, 89.02 MB peak
+[2021.09.18-09.14.27:847][  0]LogMemory: Physical Memory: 7268.38 MB used,  8983.42 MB free, 16251.80 MB total
+[2021.09.18-09.14.27:847][  0]LogMemory: Virtual Memory: 4643.16 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2021.09.18-09.14.27:905][  0]LogInit: Using OS detected language (en-US).
+[2021.09.18-09.14.27:905][  0]LogInit: Using OS detected locale (en-US).
+[2021.09.18-09.14.27:907][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.09.18-09.14.28:211][  0]LogInit: Setting process to per monitor DPI aware
+[2021.09.18-09.14.28:265][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.09.18-09.14.28:265][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.09.18-09.14.28:650][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.09.18-09.14.28:650][  0]LogD3D11RHI: D3D11 adapters:
+[2021.09.18-09.14.28:808][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2021.09.18-09.14.28:808][  0]LogD3D11RHI:       3962/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.09.18-09.14.28:844][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2021.09.18-09.14.28:844][  0]LogD3D11RHI:       128/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.09.18-09.14.28:847][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.09.18-09.14.28:847][  0]LogD3D11RHI:       0/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.09.18-09.14.28:847][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.09.18-09.14.28:871][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.09.18-09.14.28:871][  0]LogD3D11RHI:     GPU DeviceId: 0x1f99 (for the marketing name, search the web for "GPU Device Id")
+[2021.09.18-09.14.28:871][  0]LogWindows: EnumDisplayDevices:
+[2021.09.18-09.14.28:872][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2021.09.18-09.14.28:872][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.09.18-09.14.28:872][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.09.18-09.14.28:872][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:0 D:1)
+[2021.09.18-09.14.28:873][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2021.09.18-09.14.28:873][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2021.09.18-09.14.28:873][  0]LogD3D11RHI:   Driver Version: 452.56 (internal:27.21.14.5256, unified:452.56)
+[2021.09.18-09.14.28:873][  0]LogD3D11RHI:      Driver Date: 10-19-2020
+[2021.09.18-09.14.28:873][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2021.09.18-09.14.28:965][  0]LogD3D11RHI: Async texture creation enabled
+[2021.09.18-09.14.28:995][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.09.18-09.14.28:995][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.09.18-09.14.28:995][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.09.18-09.14.29:003][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.09.18-09.14.29:825][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2021.09.18-09.14.29:864][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2021.09.18-09.14.29:908][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2021.09.18-09.14.29:964][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2021.09.18-09.14.30:021][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2021.09.18-09.14.30:083][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2021.09.18-09.14.30:136][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2021.09.18-09.14.30:192][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2021.09.18-09.14.30:222][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2021.09.18-09.14.30:542][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2021.09.18-09.14.30:542][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2021.09.18-09.14.30:542][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2021.09.18-09.14.30:542][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2021.09.18-09.14.30:542][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2021.09.18-09.14.30:542][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2021.09.18-09.14.30:542][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2021.09.18-09.14.30:542][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2021.09.18-09.14.30:543][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2021.09.18-09.14.30:543][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2021.09.18-09.14.30:543][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2021.09.18-09.14.30:543][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2021.09.18-09.14.30:543][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2021.09.18-09.14.30:543][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2021.09.18-09.14.30:543][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2021.09.18-09.14.30:543][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2021.09.18-09.14.30:543][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2021.09.18-09.14.30:543][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2021.09.18-09.14.30:551][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2021.09.18-09.14.30:690][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2021.09.18-09.14.30:690][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2021.09.18-09.14.30:795][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2021.09.18-09.14.30:795][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2021.09.18-09.14.30:857][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2021.09.18-09.14.30:911][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2021.09.18-09.14.30:963][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2021.09.18-09.14.31:021][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2021.09.18-09.14.31:171][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2021.09.18-09.14.31:171][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2021.09.18-09.14.31:171][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.09.18-09.14.31:211][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.09.18-09.14.31:443][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Intermediate/Shaders/WorkingDirectory/17216/).
+[2021.09.18-09.14.31:444][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aaddy/AppData/Local/Temp/UnrealShaderWorkingDir/C14150FD451E1A1011AE5DBB20356ECA/'.
+[2021.09.18-09.14.31:452][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.09.18-09.14.31:452][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.09.18-09.14.31:453][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.09.18-09.14.33:582][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.09.18-09.14.33:661][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/aaddy/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2021.09.18-09.14.33:661][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/aaddy/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2021.09.18-09.14.33:661][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.09.18-09.14.33:661][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.09.18-09.14.33:661][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.09.18-09.14.33:661][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.09.18-09.14.33:679][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.09.18-09.14.33:680][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.09.18-09.14.33:680][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.09.18-09.14.33:692][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aaddy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.09.18-09.14.33:692][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.09.18-09.14.33:692][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.09.18-09.14.33:733][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.09.18-09.14.33:735][  0]LogSlate: Using FreeType 2.6.0
+[2021.09.18-09.14.33:736][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.09.18-09.14.33:888][  0]LogAssetRegistry: FAssetRegistry took 0.0481 seconds to start up
+[2021.09.18-09.14.34:441][  0]LogInit: Selected Device Profile: [Windows]
+[2021.09.18-09.14.34:654][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.09.18-09.14.34:654][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.09.18-09.14.34:655][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.09.18-09.14.34:655][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.09.18-09.14.34:655][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.09.18-09.14.34:998][  0]LogNetVersion: VR_shooter 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 607384154)
+[2021.09.18-09.14.36:283][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.097772 seconds
+[2021.09.18-09.14.36:303][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2021.09.18-09.14.36:303][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2021.09.18-09.14.36:303][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.09.18-09.14.39:315][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.09.18-09.14.39:331][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.09.18-09.14.39:578][  0]SourceControl: Source control is disabled
+[2021.09.18-09.14.39:579][  0]SourceControl: Source control is disabled
+[2021.09.18-09.14.39:584][  0]SourceControl: Source control is disabled
+[2021.09.18-09.14.39:589][  0]SourceControl: Source control is disabled
+[2021.09.18-09.14.39:924][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.09.18-09.14.46:339][  0]LogOcInput: OculusInput pre-init called
+[2021.09.18-09.14.47:943][  0]LogEngine: Initializing Engine...
+[2021.09.18-09.14.47:944][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.09.18-09.14.47:945][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.09.18-09.14.48:234][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.09.18-09.14.48:253][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.09.18-09.14.48:275][  0]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.09.18-09.14.48:403][  0]LogInit: FAudioDevice initialized.
+[2021.09.18-09.14.48:403][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.09.18-09.14.50:740][  0]LogDerivedDataCache: Saved boot cache 2.34s 71MB C:/Users/aaddy/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2021.09.18-09.14.50:741][  0]LogInit: Texture streaming: Enabled
+[2021.09.18-09.14.50:819][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.09.18-09.14.50:906][  0]LogInit: Transaction tracking system initialized
+[2021.09.18-09.14.50:991][  0]BlueprintLog: New page: Editor Load
+[2021.09.18-09.14.51:273][  0]LocalizationService: Localization service is disabled
+[2021.09.18-09.14.51:804][  0]LogFileCache: Scanning file cache for directory 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/' took 0.02s
+[2021.09.18-09.14.51:804][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.09.18-09.14.51:804][  0]LogCook: Display: Mobile HDR setting 1
+[2021.09.18-09.14.52:127][  0]SourceControl: Source control is disabled
+[2021.09.18-09.14.52:127][  0]Cmd: MAP LOAD FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Level_0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.18-09.14.52:128][  0]LightingResults: New page: Lighting Build
+[2021.09.18-09.14.52:136][  0]MapCheck: New page: Map Check
+[2021.09.18-09.14.52:136][  0]LightingResults: New page: Lighting Build
+[2021.09.18-09.14.52:219][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2021.09.18-09.14.52:542][  0]LogAIModule: Creating AISystem for world Level_0
+[2021.09.18-09.14.52:548][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.18-09.14.52:584][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.09.18-09.14.52:584][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.18-09.14.52:584][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.133ms to complete.
+[2021.09.18-09.14.52:585][  0]LogFileHelpers: Loading map 'Level_0' took 0.458
+[2021.09.18-09.14.52:683][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-09.14.52:695][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-09.14.52:706][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-09.14.52:718][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-09.14.52:728][  0]LogCollectionManager: Loaded 0 collections in 0.002576 seconds
+[2021.09.18-09.14.52:773][  0]LogFileCache: Scanning file cache for directory 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Collections/' took 0.01s
+[2021.09.18-09.14.52:773][  0]LogFileCache: Scanning file cache for directory 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Developers/aaddy/Collections/' took 0.01s
+[2021.09.18-09.14.52:773][  0]LogFileCache: Scanning file cache for directory 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Collections/' took 0.01s
+[2021.09.18-09.14.52:773][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2021.09.18-09.14.52:797][  0]LogContentBrowser: Native class hierarchy populated in 0.0230 seconds. Added 2732 classes and 659 folders.
+[2021.09.18-09.14.52:816][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2021.09.18-09.14.52:821][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.09.18-09.14.52:823][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.09.18-09.14.52:825][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.09.18-09.14.52:826][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.09.18-09.14.52:828][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.09.18-09.14.52:830][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.09.18-09.14.52:831][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.09.18-09.14.52:832][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.09.18-09.14.52:833][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.09.18-09.14.52:835][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.09.18-09.14.52:836][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.09.18-09.14.52:838][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.09.18-09.14.52:839][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.09.18-09.14.52:841][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.09.18-09.14.52:843][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.09.18-09.14.52:844][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.09.18-09.14.52:846][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.09.18-09.14.52:847][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.09.18-09.14.52:849][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.09.18-09.14.52:850][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.09.18-09.14.52:852][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.09.18-09.14.52:854][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.09.18-09.14.52:855][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.09.18-09.14.52:857][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.09.18-09.14.52:859][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.09.18-09.14.52:861][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.09.18-09.14.53:007][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2021.09.18-09.14.53:022][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2021.09.18-09.14.53:069][  0]LogSlate: Took 0.000664 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.18-09.14.53:078][  0]LogSlate: Took 0.000618 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.18-09.14.53:110][  0]LogSlate: Took 0.013520 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.18-09.14.53:265][  0]LogRenderer: Reallocating scene render targets to support 860x360 Format 10 NumSamples 1 (Frame:1).
+[2021.09.18-09.14.53:343][  0]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.18-09.14.53:482][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.09.18-09.14.53:482][  0]LogLoad: (Engine Initialization) Total time: 47.53 seconds
+[2021.09.18-09.14.53:482][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.09.18-09.14.53:538][  0]LogAssetRegistry: Asset discovery search completed in 19.6743 seconds
+[2021.09.18-09.14.53:541][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2021.09.18-09.14.53:541][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000063 seconds (updated 0 objects)
+[2021.09.18-09.14.53:543][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.09.18-09.14.54:846][  4]LogSlate: Took 0.000444 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.18-09.14.57:522][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.09.18-09.22.50:930][628]LogLinker: Warning: Can't find file '/Game/Effects/Materials/LensFlare/M_Lensflare_01'
+[2021.09.18-09.22.50:930][628]LogLinker: Warning: Can't find file for asset '/Game/Effects/Materials/LensFlare/M_Lensflare_01' while loading NULL.
+[2021.09.18-09.22.50:930][628]LogLinker: Warning: Can't find file '/Game/Effects/Materials/Ramp/M_SoftGradient_Muzzle'
+[2021.09.18-09.22.50:930][628]LogLinker: Warning: Can't find file for asset '/Game/Effects/Materials/Ramp/M_SoftGradient_Muzzle' while loading NULL.
+[2021.09.18-09.22.50:931][628]LogLinker: Warning: Can't find file '/Game/Effects/Materials/Smoke/M_ImpactSmoke'
+[2021.09.18-09.22.50:931][628]LogLinker: Warning: Can't find file for asset '/Game/Effects/Materials/Smoke/M_ImpactSmoke' while loading NULL.
+[2021.09.18-09.22.50:931][628]LogLinker: Warning: Can't find file '/Game/Effects/Materials/Smoke/M_SmokeBall'
+[2021.09.18-09.22.50:931][628]LogLinker: Warning: Can't find file for asset '/Game/Effects/Materials/Smoke/M_SmokeBall' while loading NULL.
+[2021.09.18-09.22.50:931][628]LogLinker: Warning: Can't find file '/Game/Effects/Materials/Weapon/M_muzzle_flash_subUV'
+[2021.09.18-09.22.50:931][628]LogLinker: Warning: Can't find file for asset '/Game/Effects/Materials/Weapon/M_muzzle_flash_subUV' while loading NULL.
+[2021.09.18-09.22.50:931][628]LogLinker: Warning: Can't find file '/Game/Effects/Materials/Weapon/M_MuzzleGlow'
+[2021.09.18-09.22.50:931][628]LogLinker: Warning: Can't find file for asset '/Game/Effects/Materials/Weapon/M_MuzzleGlow' while loading NULL.
+[2021.09.18-09.22.50:931][628]LogLinker: Warning: Can't find file '/Game/Effects/Materials/LensFlare/M_Lensflare_01'
+[2021.09.18-09.22.50:931][628]LogLinker: Warning: Can't find file for asset '/Game/Effects/Materials/LensFlare/M_Lensflare_01' while loading NULL.
+[2021.09.18-09.22.50:931][628]LogLinker: Warning: Can't find file '/Game/Effects/Materials/Ramp/M_SoftGradient_Muzzle'
+[2021.09.18-09.22.50:932][628]LogLinker: Warning: Can't find file for asset '/Game/Effects/Materials/Ramp/M_SoftGradient_Muzzle' while loading NULL.
+[2021.09.18-09.22.50:932][628]LogLinker: Warning: Can't find file '/Game/Effects/Materials/Smoke/M_ImpactSmoke'
+[2021.09.18-09.22.50:932][628]LogLinker: Warning: Can't find file for asset '/Game/Effects/Materials/Smoke/M_ImpactSmoke' while loading NULL.
+[2021.09.18-09.22.50:932][628]LogLinker: Warning: Can't find file '/Game/Effects/Materials/Smoke/M_SmokeBall'
+[2021.09.18-09.22.50:932][628]LogLinker: Warning: Can't find file for asset '/Game/Effects/Materials/Smoke/M_SmokeBall' while loading NULL.
+[2021.09.18-09.22.50:932][628]LogLinker: Warning: Can't find file '/Game/Effects/Materials/Weapon/M_muzzle_flash_subUV'
+[2021.09.18-09.22.50:932][628]LogLinker: Warning: Can't find file for asset '/Game/Effects/Materials/Weapon/M_muzzle_flash_subUV' while loading NULL.
+[2021.09.18-09.22.50:932][628]LogLinker: Warning: Can't find file '/Game/Effects/Materials/Weapon/M_MuzzleGlow'
+[2021.09.18-09.22.50:932][628]LogLinker: Warning: Can't find file for asset '/Game/Effects/Materials/Weapon/M_MuzzleGlow' while loading NULL.
+[2021.09.18-09.22.50:932][628]LogLinker: Warning: Can't find file '/Game/Effects/Meshes/Weapon/SM_MuzzleCone'
+[2021.09.18-09.22.50:932][628]LogLinker: Warning: Can't find file for asset '/Game/Effects/Meshes/Weapon/SM_MuzzleCone' while loading NULL.
+[2021.09.18-09.22.50:932][628]LogLinker: Warning: Can't find file '/Game/Effects/Meshes/Weapon/SM_MuzzleCone'
+[2021.09.18-09.22.50:932][628]LogLinker: Warning: Can't find file for asset '/Game/Effects/Meshes/Weapon/SM_MuzzleCone' while loading NULL.
+[2021.09.18-09.22.50:981][628]LogLinker: Warning: Can't find file '/Game/Effects/Materials/LensFlare/M_Lensflare_01'
+[2021.09.18-09.22.50:982][628]LoadErrors: Failed to load /Game/Effects/Materials/LensFlare/M_Lensflare_01.M_Lensflare_01 Referenced by ParticleModuleRequired_0
+[2021.09.18-09.22.50:982][628]LogLinker: Warning: Can't find file for asset '/Game/Effects/Materials/LensFlare/M_Lensflare_01' while loading NULL.
+[2021.09.18-09.22.50:982][628]LogLinker: Warning: Can't find file '/Game/Effects/Materials/Ramp/M_SoftGradient_Muzzle'
+[2021.09.18-09.22.50:982][628]LoadErrors: Failed to load /Game/Effects/Materials/Ramp/M_SoftGradient_Muzzle.M_SoftGradient_Muzzle Referenced by ParticleModuleRequired_28
+[2021.09.18-09.22.50:982][628]LogLinker: Warning: Can't find file for asset '/Game/Effects/Materials/Ramp/M_SoftGradient_Muzzle' while loading NULL.
+[2021.09.18-09.22.50:982][628]LogLinker: Warning: Can't find file '/Game/Effects/Materials/Smoke/M_ImpactSmoke'
+[2021.09.18-09.22.50:982][628]LoadErrors: Failed to load /Game/Effects/Materials/Smoke/M_ImpactSmoke.M_ImpactSmoke Referenced by ParticleModuleRequired_35
+[2021.09.18-09.22.50:982][628]LogLinker: Warning: Can't find file for asset '/Game/Effects/Materials/Smoke/M_ImpactSmoke' while loading NULL.
+[2021.09.18-09.22.50:982][628]LogLinker: Warning: Can't find file '/Game/Effects/Materials/Smoke/M_ImpactSmoke'
+[2021.09.18-09.22.50:982][628]LoadErrors: Failed to load /Game/Effects/Materials/Smoke/M_ImpactSmoke.M_ImpactSmoke Referenced by ParticleModuleRequired_36
+[2021.09.18-09.22.50:982][628]LogLinker: Warning: Can't find file for asset '/Game/Effects/Materials/Smoke/M_ImpactSmoke' while loading NULL.
+[2021.09.18-09.22.50:982][628]LogLinker: Warning: Can't find file '/Game/Effects/Materials/Smoke/M_ImpactSmoke'
+[2021.09.18-09.22.50:982][628]LoadErrors: Failed to load /Game/Effects/Materials/Smoke/M_ImpactSmoke.M_ImpactSmoke Referenced by ParticleModuleRequired_38
+[2021.09.18-09.22.50:983][628]LogLinker: Warning: Can't find file for asset '/Game/Effects/Materials/Smoke/M_ImpactSmoke' while loading NULL.
+[2021.09.18-09.22.50:983][628]LogLinker: Warning: Can't find file '/Game/Effects/Materials/Smoke/M_SmokeBall'
+[2021.09.18-09.22.50:983][628]LoadErrors: Failed to load /Game/Effects/Materials/Smoke/M_SmokeBall.M_SmokeBall Referenced by ParticleModuleRequired_39
+[2021.09.18-09.22.50:983][628]LogLinker: Warning: Can't find file for asset '/Game/Effects/Materials/Smoke/M_SmokeBall' while loading NULL.
+[2021.09.18-09.22.50:983][628]LogLinker: Warning: Can't find file '/Game/Effects/Materials/Smoke/M_SmokeBall'
+[2021.09.18-09.22.50:983][628]LoadErrors: Failed to load /Game/Effects/Materials/Smoke/M_SmokeBall.M_SmokeBall Referenced by ParticleModuleRequired_40
+[2021.09.18-09.22.50:983][628]LogLinker: Warning: Can't find file for asset '/Game/Effects/Materials/Smoke/M_SmokeBall' while loading NULL.
+[2021.09.18-09.22.50:983][628]LogLinker: Warning: Can't find file '/Game/Effects/Materials/Weapon/M_muzzle_flash_subUV'
+[2021.09.18-09.22.50:983][628]LoadErrors: Failed to load /Game/Effects/Materials/Weapon/M_muzzle_flash_subUV.M_muzzle_flash_subUV Referenced by ParticleModuleRequired_45
+[2021.09.18-09.22.50:983][628]LogLinker: Warning: Can't find file for asset '/Game/Effects/Materials/Weapon/M_muzzle_flash_subUV' while loading NULL.
+[2021.09.18-09.22.50:983][628]LogLinker: Warning: Can't find file '/Game/Effects/Materials/Weapon/M_muzzle_flash_subUV'
+[2021.09.18-09.22.50:983][628]LoadErrors: Failed to load /Game/Effects/Materials/Weapon/M_muzzle_flash_subUV.M_muzzle_flash_subUV Referenced by ParticleModuleRequired_46
+[2021.09.18-09.22.50:983][628]LogLinker: Warning: Can't find file for asset '/Game/Effects/Materials/Weapon/M_muzzle_flash_subUV' while loading NULL.
+[2021.09.18-09.22.50:984][628]LogLinker: Warning: Can't find file '/Game/Effects/Materials/Weapon/M_MuzzleGlow'
+[2021.09.18-09.22.50:984][628]LoadErrors: Failed to load /Game/Effects/Materials/Weapon/M_MuzzleGlow.M_MuzzleGlow Referenced by ParticleModuleRequired_49
+[2021.09.18-09.22.50:984][628]LogLinker: Warning: Can't find file for asset '/Game/Effects/Materials/Weapon/M_MuzzleGlow' while loading NULL.
+[2021.09.18-09.22.50:985][628]LogLinker: Warning: Can't find file '/Game/Effects/Meshes/Weapon/SM_MuzzleCone'
+[2021.09.18-09.22.50:985][628]LoadErrors: Failed to load /Game/Effects/Meshes/Weapon/SM_MuzzleCone.SM_MuzzleCone Referenced by ParticleModuleTypeDataMesh_8
+[2021.09.18-09.22.50:985][628]LogLinker: Warning: Can't find file for asset '/Game/Effects/Meshes/Weapon/SM_MuzzleCone' while loading NULL.
+[2021.09.18-09.22.51:031][628]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprint/Player_Blueprint/Player.Player
+[2021.09.18-09.22.51:227][628]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2021.09.18-09.22.51:841][628]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.18-09.22.51:919][629]LogSlate: Took 0.000324 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.09.18-09.24.03:202][132]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Epic_Fantasy...
+[2021.09.18-09.24.05:882][132]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 26794936 while cooking SoundWave /Game/FantasyOrchestral/audio/Epic_Fantasy.Epic_Fantasy.
+[2021.09.18-09.24.18:087][175]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Harp_of_Chronos...
+[2021.09.18-09.24.20:209][175]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 24903424 while cooking SoundWave /Game/FantasyOrchestral/audio/Harp_of_Chronos.Harp_of_Chronos.
+[2021.09.18-09.24.22:869][326]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Land_of_Mystery...
+[2021.09.18-09.24.25:279][326]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 27610432 while cooking SoundWave /Game/FantasyOrchestral/audio/Land_of_Mystery.Land_of_Mystery.
+[2021.09.18-09.24.30:103][612]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Elven_Harmonies...
+[2021.09.18-09.24.31:890][612]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 19138188 while cooking SoundWave /Game/FantasyOrchestral/audio/Elven_Harmonies.Elven_Harmonies.
+[2021.09.18-09.25.28:801][994]LogSlate: Window 'Player' being destroyed
+[2021.09.18-09.25.31:539][157]LogRenderer: Reallocating scene render targets to support 912x572 Format 10 NumSamples 1 (Frame:1).
+[2021.09.18-09.25.34:668][342]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.09.18-09.25.48:605][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.25.51:802][284]BlueprintLog: New page: Compile Player
+[2021.09.18-09.25.51:962][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.09.18-09.25.52:592][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Player_Blueprint/Player" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Blueprint/Player_Blueprint/Player.uasset" SILENT=true
+[2021.09.18-09.25.52:626][320]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/PlayerEB2F802049619E3B6FF85EBFD6E49B23.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Blueprint/Player_Blueprint/Player.uasset'
+[2021.09.18-09.25.53:992][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.26.06:812][171]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.18-09.26.06:820][171]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.26.06:820][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.18-09.26.06:873][171]PIE: New page: PIE session: Level_0 (Sep 18, 2021, 8:26:06 PM)
+[2021.09.18-09.26.06:885][171]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2021.09.18-09.26.06:887][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001998s)
+[2021.09.18-09.26.06:887][171]LogAIModule: Creating AISystem for world Level_0
+[2021.09.18-09.26.06:888][171]LogPlayLevel: PIE: World Init took: (0.000591s)
+[2021.09.18-09.26.06:888][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.002775s)
+[2021.09.18-09.26.06:909][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.09.18-09.26.06:913][171]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.09.18-09.26.06:920][171]LogInit: FAudioDevice initialized.
+[2021.09.18-09.26.06:964][171]LogLoad: Game class is 'VR_mode_C'
+[2021.09.18-09.26.06:965][171]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 60) at 2021.09.18-14.56.06
+[2021.09.18-09.26.06:966][171]LogWorld: Bringing up level for play took: 0.000494
+[2021.09.18-09.26.07:105][171]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2021.09.18-09.26.07:136][171]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2021.09.18-09.26.07:137][171]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.09.18-09.26.07:150][171]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 -0.23
+[2021.09.18-09.26.07:151][171]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.26.20:857][976]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.26.20:857][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-09.26.20:884][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.18-09.26.20:884][976]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.26.20:921][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-09.26.20:938][976]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.09.18-09.26.20:969][978]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.09.18-09.26.26:141][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.26.32:585][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.32.03:839][ 78]LogEditorTransaction: Undo Create Pin Link
+[2021.09.18-09.32.04:322][107]LogEditorTransaction: Undo Move Node
+[2021.09.18-09.32.04:781][133]LogEditorTransaction: Undo Add Node
+[2021.09.18-09.32.05:587][180]LogEditorTransaction: Undo Delete current selection
+[2021.09.18-09.32.06:213][216]LogEditorTransaction: Undo Move Node
+[2021.09.18-09.32.06:901][256]LogEditorTransaction: Undo Add Node
+[2021.09.18-09.32.09:224][394]LogEditorTransaction: Undo Add Node
+[2021.09.18-09.33.08:070][747]BlueprintLog: New page: Compile Player
+[2021.09.18-09.33.08:235][747]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.09.18-09.34.25:783][254]LogSlate: Took 0.014856 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.09.18-09.34.39:883][ 95]BlueprintLog: New page: Compile Player
+[2021.09.18-09.34.40:049][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.09.18-09.36.39:133][196]BlueprintLog: New page: Compile Player
+[2021.09.18-09.36.39:293][196]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.09.18-09.36.39:941][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Player_Blueprint/Player" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Blueprint/Player_Blueprint/Player.uasset" SILENT=true
+[2021.09.18-09.36.39:976][232]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Player79047FB945D5396FE7FC24A9EEA8E5FB.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Blueprint/Player_Blueprint/Player.uasset'
+[2021.09.18-09.36.43:034][415]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.18-09.36.43:043][415]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.36.43:043][415]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.18-09.36.43:043][415]PIE: New page: PIE session: Level_0 (Sep 18, 2021, 8:36:43 PM)
+[2021.09.18-09.36.43:043][415]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2021.09.18-09.36.43:045][415]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002028s)
+[2021.09.18-09.36.43:046][415]LogAIModule: Creating AISystem for world Level_0
+[2021.09.18-09.36.43:047][415]LogPlayLevel: PIE: World Init took: (0.001260s)
+[2021.09.18-09.36.43:047][415]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.003461s)
+[2021.09.18-09.36.43:073][415]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.09.18-09.36.43:078][415]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.09.18-09.36.43:085][415]LogInit: FAudioDevice initialized.
+[2021.09.18-09.36.43:114][415]LogLoad: Game class is 'VR_mode_C'
+[2021.09.18-09.36.43:115][415]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 60) at 2021.09.18-15.06.43
+[2021.09.18-09.36.43:115][415]LogWorld: Bringing up level for play took: 0.000504
+[2021.09.18-09.36.43:128][415]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 -0.252
+[2021.09.18-09.36.43:129][415]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.36.58:486][336]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.36.58:486][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-09.36.58:512][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.18-09.36.58:512][336]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.36.58:546][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-09.36.58:550][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.09.18-09.36.58:597][339]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.09.18-09.36.59:707][405]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.09.18-09.37.00:706][465]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.09.18-09.37.02:089][547]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2021.09.18-09.37.02:748][547]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.09.18-09.37.02:761][547]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.09.18-09.37.43:224][499]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.18-09.37.43:234][499]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.37.43:234][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.18-09.37.43:234][499]PIE: New page: PIE session: Level_0 (Sep 18, 2021, 8:37:43 PM)
+[2021.09.18-09.37.43:234][499]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2021.09.18-09.37.43:236][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002261s)
+[2021.09.18-09.37.43:240][499]LogAIModule: Creating AISystem for world Level_0
+[2021.09.18-09.37.43:241][499]LogPlayLevel: PIE: World Init took: (0.004204s)
+[2021.09.18-09.37.43:241][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.006599s)
+[2021.09.18-09.37.43:302][499]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2021.09.18-09.37.43:306][499]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.09.18-09.37.43:314][499]LogInit: FAudioDevice initialized.
+[2021.09.18-09.37.43:345][499]LogLoad: Game class is 'VR_mode_C'
+[2021.09.18-09.37.43:346][499]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 60) at 2021.09.18-15.07.43
+[2021.09.18-09.37.43:346][499]LogWorld: Bringing up level for play took: 0.000671
+[2021.09.18-09.37.43:359][499]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 -0.021
+[2021.09.18-09.37.43:359][499]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.37.55:002][197]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.37.55:002][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-09.37.55:028][197]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.18-09.37.55:029][197]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.37.55:068][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-09.37.55:084][197]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.09.18-09.37.55:121][199]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.09.18-09.38.04:711][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.40.47:216][368]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.18-09.40.47:225][368]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.40.47:225][368]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.18-09.40.47:225][368]PIE: New page: PIE session: Level_0 (Sep 18, 2021, 8:40:47 PM)
+[2021.09.18-09.40.47:225][368]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2021.09.18-09.40.47:227][368]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002183s)
+[2021.09.18-09.40.47:228][368]LogAIModule: Creating AISystem for world Level_0
+[2021.09.18-09.40.47:228][368]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2021.09.18-09.40.47:228][368]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.002934s)
+[2021.09.18-09.40.47:254][368]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.09.18-09.40.47:257][368]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.09.18-09.40.47:265][368]LogInit: FAudioDevice initialized.
+[2021.09.18-09.40.47:271][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-09.40.47:301][368]LogLoad: Game class is 'VR_mode_C'
+[2021.09.18-09.40.47:303][368]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 60) at 2021.09.18-15.10.47
+[2021.09.18-09.40.47:303][368]LogWorld: Bringing up level for play took: 0.000545
+[2021.09.18-09.40.47:317][368]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 -0.063
+[2021.09.18-09.40.47:318][368]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.40.47:346][370]LogRenderer: Reallocating scene render targets to support 1016x572 Format 10 NumSamples 1 (Frame:1).
+[2021.09.18-09.41.02:747][293]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.41.02:747][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-09.41.02:753][293]LogSlate: Window 'VR_shooter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.09.18-09.41.02:783][293]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.18-09.41.02:783][293]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.41.02:820][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.09.18-09.41.02:863][296]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.09.18-09.42.52:397][375]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.09.18-09.44.23:719][829]BlueprintLog: New page: Compile Player
+[2021.09.18-09.44.23:879][829]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.09.18-09.44.24:739][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Player_Blueprint/Player" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Blueprint/Player_Blueprint/Player.uasset" SILENT=true
+[2021.09.18-09.44.24:774][878]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Player1104882C43190282AF0D3EB43889058D.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Blueprint/Player_Blueprint/Player.uasset'
+[2021.09.18-09.44.27:370][ 33]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.18-09.44.27:378][ 33]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.44.27:378][ 33]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.18-09.44.27:378][ 33]PIE: New page: PIE session: Level_0 (Sep 18, 2021, 8:44:27 PM)
+[2021.09.18-09.44.27:378][ 33]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2021.09.18-09.44.27:380][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001938s)
+[2021.09.18-09.44.27:381][ 33]LogAIModule: Creating AISystem for world Level_0
+[2021.09.18-09.44.27:381][ 33]LogPlayLevel: PIE: World Init took: (0.000568s)
+[2021.09.18-09.44.27:381][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.002598s)
+[2021.09.18-09.44.27:410][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.09.18-09.44.27:413][ 33]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.09.18-09.44.27:420][ 33]LogInit: FAudioDevice initialized.
+[2021.09.18-09.44.27:446][ 33]LogLoad: Game class is 'VR_mode_C'
+[2021.09.18-09.44.27:447][ 33]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 60) at 2021.09.18-15.14.27
+[2021.09.18-09.44.27:447][ 33]LogWorld: Bringing up level for play took: 0.000484
+[2021.09.18-09.44.27:460][ 33]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 0.079
+[2021.09.18-09.44.27:460][ 33]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.44.57:583][840]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.44.57:583][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-09.44.57:612][840]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.18-09.44.57:613][840]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.44.57:643][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-09.44.57:647][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.09.18-09.44.57:683][842]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.09.18-09.45.03:583][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.46.49:617][876]BlueprintLog: New page: Compile Player
+[2021.09.18-09.46.49:778][876]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.09.18-09.46.51:649][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Player_Blueprint/Player" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Blueprint/Player_Blueprint/Player.uasset" SILENT=true
+[2021.09.18-09.46.51:684][ 94]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/PlayerF57C74824A37AF6C0CFFA6A28B1E8F2C.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Blueprint/Player_Blueprint/Player.uasset'
+[2021.09.18-09.46.53:332][290]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.18-09.46.53:341][290]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.46.53:341][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.18-09.46.53:341][290]PIE: New page: PIE session: Level_0 (Sep 18, 2021, 8:46:53 PM)
+[2021.09.18-09.46.53:341][290]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2021.09.18-09.46.53:343][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001998s)
+[2021.09.18-09.46.53:343][290]LogAIModule: Creating AISystem for world Level_0
+[2021.09.18-09.46.53:343][290]LogPlayLevel: PIE: World Init took: (0.000518s)
+[2021.09.18-09.46.53:343][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.002608s)
+[2021.09.18-09.46.53:373][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.09.18-09.46.53:377][290]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.09.18-09.46.53:384][290]LogInit: FAudioDevice initialized.
+[2021.09.18-09.46.53:409][290]LogLoad: Game class is 'VR_mode_C'
+[2021.09.18-09.46.53:410][290]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2021.09.18-15.16.53
+[2021.09.18-09.46.53:410][290]LogWorld: Bringing up level for play took: 0.000515
+[2021.09.18-09.46.53:423][290]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 0.042
+[2021.09.18-09.46.53:424][290]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.46.57:880][823]LogBlueprintUserMessages: [Player_C_0] HIT
+[2021.09.18-09.46.59:771][ 48]LogBlueprintUserMessages: [Player_C_0] HIT
+[2021.09.18-09.47.00:438][128]LogBlueprintUserMessages: [Player_C_0] HIT
+[2021.09.18-09.47.01:021][198]LogBlueprintUserMessages: [Player_C_0] HIT
+[2021.09.18-09.47.03:248][465]LogBlueprintUserMessages: [Player_C_0] HIT
+[2021.09.18-09.47.11:737][481]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.47.11:737][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-09.47.11:764][481]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.18-09.47.11:765][481]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.47.11:797][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-09.47.11:803][481]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.09.18-09.47.11:837][484]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.09.18-09.47.13:850][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.50.34:358][359]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.09.18-09.50.51:546][399]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.18-09.50.51:556][399]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.50.51:556][399]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.18-09.50.51:556][399]PIE: New page: PIE session: Level_0 (Sep 18, 2021, 8:50:51 PM)
+[2021.09.18-09.50.51:556][399]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2021.09.18-09.50.51:558][399]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002039s)
+[2021.09.18-09.50.51:559][399]LogAIModule: Creating AISystem for world Level_0
+[2021.09.18-09.50.51:559][399]LogPlayLevel: PIE: World Init took: (0.000577s)
+[2021.09.18-09.50.51:559][399]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.002710s)
+[2021.09.18-09.50.51:585][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.09.18-09.50.51:589][399]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.09.18-09.50.51:595][399]LogInit: FAudioDevice initialized.
+[2021.09.18-09.50.51:620][399]LogLoad: Game class is 'VR_mode_C'
+[2021.09.18-09.50.51:621][399]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2021.09.18-15.20.51
+[2021.09.18-09.50.51:621][399]LogWorld: Bringing up level for play took: 0.000516
+[2021.09.18-09.50.51:634][399]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 0.254
+[2021.09.18-09.50.51:634][399]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.50.55:668][880]LogBlueprintUserMessages: [Player_C_0] HIT
+[2021.09.18-09.50.58:684][242]LogBlueprintUserMessages: [Player_C_0] HIT
+[2021.09.18-09.51.04:660][959]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.51.04:660][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-09.51.04:689][959]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.18-09.51.04:689][959]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.51.04:719][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-09.51.04:723][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.09.18-09.51.04:760][962]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.09.18-09.51.07:432][278]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.09.18-09.51.09:403][436]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.09.18-09.51.09:414][436]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.09.18-09.51.47:712][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.51.47:866][ 29]LogActorFactory: Actor Factory created Cube
+[2021.09.18-09.51.51:702][476]LogActorFactory: Actor Factory created Cube
+[2021.09.18-09.51.56:029][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.52.03:700][853]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2021.09.18-09.52.03:759][853]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.09.18-09.52.10:271][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.52.23:785][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.52.30:711][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.52.39:693][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.52.49:525][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.52.55:913][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.53.01:636][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.53.10:269][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.53.37:229][913]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.53.43:687][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.53.49:091][306]Cmd: DUPLICATE
+[2021.09.18-09.53.49:091][306]Cmd: ACTOR DUPLICATE
+[2021.09.18-09.54.25:639][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.54.25:722][635]Cmd: MODE ROTGRID=0
+[2021.09.18-09.54.29:432][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.54.29:626][ 90]LogActorFactory: Actor Factory created Cube
+[2021.09.18-09.54.31:295][290]LogActorFactory: Actor Factory created Cube
+[2021.09.18-09.54.35:195][744]Cmd: DELETE
+[2021.09.18-09.54.35:195][744]Cmd: ACTOR DELETE
+[2021.09.18-09.54.35:218][744]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.18-09.54.35:249][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.09.18-09.54.35:250][744]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2021.09.18-09.54.36:488][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.54.39:974][298]Cmd: DUPLICATE
+[2021.09.18-09.54.39:974][298]Cmd: ACTOR DUPLICATE
+[2021.09.18-09.54.53:436][893]Cmd: TRANSACTION UNDO
+[2021.09.18-09.54.53:436][893]LogEditorTransaction: Undo Rotate Actors
+[2021.09.18-09.54.54:568][ 26]Cmd: TRANSACTION UNDO
+[2021.09.18-09.54.54:568][ 26]LogEditorTransaction: Undo Rotate Actors
+[2021.09.18-09.54.58:161][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.55.19:607][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.55.20:817][113]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2021.09.18-09.55.23:261][399]Cmd: DUPLICATE
+[2021.09.18-09.55.23:261][399]Cmd: ACTOR DUPLICATE
+[2021.09.18-09.55.44:575][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.09.18-09.55.52:680][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.55.52:739][857]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.18-09.55.52:748][857]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.55.52:749][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.18-09.55.52:749][857]PIE: New page: PIE session: Level_0 (Sep 18, 2021, 8:55:52 PM)
+[2021.09.18-09.55.52:749][857]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2021.09.18-09.55.52:751][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002601s)
+[2021.09.18-09.55.52:752][857]LogAIModule: Creating AISystem for world Level_0
+[2021.09.18-09.55.52:752][857]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2021.09.18-09.55.52:752][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.003512s)
+[2021.09.18-09.55.52:784][857]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.09.18-09.55.52:788][857]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.09.18-09.55.52:796][857]LogInit: FAudioDevice initialized.
+[2021.09.18-09.55.52:827][857]LogLoad: Game class is 'VR_mode_C'
+[2021.09.18-09.55.52:828][857]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2021.09.18-15.25.52
+[2021.09.18-09.55.52:828][857]LogWorld: Bringing up level for play took: 0.000608
+[2021.09.18-09.55.52:842][857]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 -0.539
+[2021.09.18-09.55.52:842][857]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.55.57:736][442]LogBlueprintUserMessages: [Player_C_0] HIT
+[2021.09.18-09.56.01:227][861]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.56.01:227][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-09.56.01:255][861]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.18-09.56.01:255][861]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.56.01:288][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-09.56.01:292][861]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.09.18-09.56.01:331][864]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.09.18-09.56.03:673][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.56.28:276][ 49]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2021.09.18-09.56.53:336][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.57.01:317][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.57.11:484][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.57.22:233][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.57.27:381][ 72]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2021.09.18-09.57.51:963][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.58.13:438][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.58.19:077][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.58.28:530][359]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.18-09.58.28:541][359]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.58.28:541][359]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.18-09.58.28:541][359]PIE: New page: PIE session: Level_0 (Sep 18, 2021, 8:58:28 PM)
+[2021.09.18-09.58.28:541][359]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2021.09.18-09.58.28:544][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002336s)
+[2021.09.18-09.58.28:544][359]LogAIModule: Creating AISystem for world Level_0
+[2021.09.18-09.58.28:545][359]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2021.09.18-09.58.28:545][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.003235s)
+[2021.09.18-09.58.28:575][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.09.18-09.58.28:579][359]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.09.18-09.58.28:586][359]LogInit: FAudioDevice initialized.
+[2021.09.18-09.58.28:614][359]LogLoad: Game class is 'VR_mode_C'
+[2021.09.18-09.58.28:615][359]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2021.09.18-15.28.28
+[2021.09.18-09.58.28:615][359]LogWorld: Bringing up level for play took: 0.000721
+[2021.09.18-09.58.28:628][359]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 -0.752
+[2021.09.18-09.58.28:629][359]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.58.33:931][993]LogBlueprintUserMessages: [Player_C_0] HIT
+[2021.09.18-09.58.37:023][364]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.58.37:023][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-09.58.37:050][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.18-09.58.37:050][364]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_0.Level_0:PersistentLevel' has LevelScriptBlueprint '/Game/Level_0.Level_0:PersistentLevel.Level_0' with GeneratedClass '/Game/Level_0.Level_0_C' with ClassGeneratedBy '/Game/Level_0.Level_0:PersistentLevel.Level_0'
+[2021.09.18-09.58.37:077][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-09.58.37:081][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.09.18-09.58.37:128][369]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.09.18-09.58.41:228][856]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.09.18-09.59.06:559][880]MapCheck: New page: Map Check
+[2021.09.18-09.59.06:582][880]LightingResults: New page: Lighting Build - Sep 18, 2021, 8:59:06 PM
+[2021.09.18-09.59.06:987][880]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.09.18-09.59.07:064][880]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.09.18-09.59.07:114][880]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.09.18-09.59.08:702][880]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.09.18-09.59.08:702][880]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17216
+[2021.09.18-09.59.14:678][880]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.09.18-09.59.14:679][880]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.09.18-09.59.14:679][880]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.09.18-09.59.14:679][880]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.09.18-09.59.14:679][880]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.09.18-09.59.14:679][880]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.09.18-09.59.15:373][880]LogEditorBuildUtils: Build time 0:08
+[2021.09.18-09.59.15:384][880]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2021.09.18-09.59.15:569][880]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2021.09.18-09.59.15:593][881]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2021.09.18-09.59.15:599][881]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2021.09.18-09.59.15:629][882]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ScopeHandle, compiling. 
+[2021.09.18-09.59.15:635][882]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ScopeHandle, compiling. 
+[2021.09.18-09.59.15:654][882]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.09.18-09.59.15:668][883]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Man_Cloth_Down_02, compiling. 
+[2021.09.18-09.59.15:676][883]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Man_Cloth_Down_02, compiling. 
+[2021.09.18-09.59.15:707][884]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Barrel, compiling. 
+[2021.09.18-09.59.15:714][884]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Barrel, compiling. 
+[2021.09.18-09.59.15:740][885]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2021.09.18-09.59.15:748][885]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2021.09.18-09.59.15:774][886]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2021.09.18-09.59.15:782][886]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2021.09.18-09.59.20:022][888]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube3)
+[2021.09.18-09.59.20:239][888]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.09.18-09.59.20:244][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.18-09.59.20:286][888]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube4)
+[2021.09.18-09.59.20:353][888]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.09.18-09.59.20:779][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.09.18-09.59.26:581][246]Job is a success!
+[2021.09.18-09.59.26:762][247]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.09.18-09.59.26:843][247]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.068s
+[2021.09.18-09.59.26:843][247]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.09.18-09.59.26:843][247]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.3Mb
+[2021.09.18-09.59.26:843][247]LogVolumetricLightmapImport:      Bricks at Level
+[2021.09.18-09.59.26:843][247]LogVolumetricLightmapImport:          0: 0.2% covering 100.0% of volume
+[2021.09.18-09.59.26:843][247]LogVolumetricLightmapImport:          1: 5.5% covering 43.8% of volume
+[2021.09.18-09.59.26:843][247]LogVolumetricLightmapImport:          2: 94.3% covering 11.6% of volume
+[2021.09.18-09.59.26:916][247]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2021.09.18-09.59.26:916][247]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2021.09.18-09.59.26:916][247]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2021.09.18-09.59.26:916][247]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2021.09.18-09.59.26:916][247]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2021.09.18-09.59.26:916][247]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 512X128)
+[2021.09.18-09.59.27:269][247]Lightmass on LAPTOP-OI2QLG43: 3.79 sec total, 283 ms importing, 55 ms setup, 977 ms photons, 1.93 sec processing, 0 ms extra exporting [10/10 mappings]. Threads: 13.3 sec total, 804 ms processing.
+[2021.09.18-09.59.27:274][247]LogStaticLightingSystem: Level_0_BuiltData storing lightmap data for 10 meshes in 2 LightmapResourceClusters (5.0 Meshes per cluster).
+[2021.09.18-09.59.27:278][247]LogMaterial: Warning: Material /Game/Shooter_assets/Guns/ScopeHandle.ScopeHandle needed to have new flag set bUsedWithStaticLighting !
+[2021.09.18-09.59.27:279][247]LogMaterial: Display: Missing cached shader map for material ScopeHandle, compiling. 
+[2021.09.18-09.59.27:322][247]LogMaterial: Warning: Material /Game/Shooter_assets/Guns/Barrel.Barrel needed to have new flag set bUsedWithStaticLighting !
+[2021.09.18-09.59.27:325][247]LogMaterial: Display: Missing cached shader map for material Barrel, compiling. 
+[2021.09.18-09.59.27:340][247]LogMaterial: Warning: Material /Game/Man/Materials/M_Man_Cloth_Down_02.M_Man_Cloth_Down_02 needed to have new flag set bUsedWithStaticLighting !
+[2021.09.18-09.59.27:343][247]LogMaterial: Display: Missing cached shader map for material M_Man_Cloth_Down_02, compiling. 
+[2021.09.18-09.59.27:402][247]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2021.09.18-09.59.27:458][247]LogStaticLightingSystem: Illumination: 20.8 sec (43 ms encoding lightmaps, 17 ms encoding shadowmaps)
+[2021.09.18-09.59.27:458][247]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.09.18-09.59.27:458][247]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.09.18-09.59.27:652][247]DumpUnbuiltLightIteractions
+[2021.09.18-09.59.27:652][247]Lights with unbuilt interactions: 0
+[2021.09.18-09.59.27:652][247]
+[2021.09.18-09.59.27:652][247]Primitives with unbuilt interactions: 0
+[2021.09.18-09.59.27:654][247]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.09.18-09.59.33:648][248]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.09.18-09.59.33:648][248]MapCheck: New page: Level_0 - Sep 18, 2021, 8:59:33 PM
+[2021.09.18-09.59.33:648][248]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.34ms to complete.
+[2021.09.18-09.59.39:080][880]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.09.18-09.59.48:917][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-09.59.59:351][299]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.09.18-10.00.00:175][398]MapCheck: New page: Map Check
+[2021.09.18-10.00.00:185][398]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.09.18-10.00.00:188][398]LightingResults: New page: Lighting Build - Sep 18, 2021, 9:00:00 PM
+[2021.09.18-10.00.00:195][398]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.09.18-10.00.00:197][398]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.09.18-10.00.00:197][398]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.09.18-10.00.00:197][398]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.09.18-10.00.00:197][398]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17216
+[2021.09.18-10.00.04:867][398]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.09.18-10.00.04:867][398]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.09.18-10.00.04:867][398]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.09.18-10.00.04:867][398]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.09.18-10.00.04:867][398]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.09.18-10.00.04:867][398]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.09.18-10.00.04:968][398]LogEditorBuildUtils: Build time 0:04
+[2021.09.18-10.00.04:974][398]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ScopeHandle, compiling. 
+[2021.09.18-10.00.04:981][398]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ScopeHandle, compiling. 
+[2021.09.18-10.00.04:997][399]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Man_Cloth_Down_02, compiling. 
+[2021.09.18-10.00.05:006][399]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Man_Cloth_Down_02, compiling. 
+[2021.09.18-10.00.05:042][400]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Barrel, compiling. 
+[2021.09.18-10.00.05:050][400]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Barrel, compiling. 
+[2021.09.18-10.00.06:349][406]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.09.18-10.00.09:728][684]Job is a success!
+[2021.09.18-10.00.09:896][685]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.09.18-10.00.09:955][685]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.048s
+[2021.09.18-10.00.09:955][685]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.09.18-10.00.09:955][685]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.3Mb
+[2021.09.18-10.00.09:955][685]LogVolumetricLightmapImport:      Bricks at Level
+[2021.09.18-10.00.09:955][685]LogVolumetricLightmapImport:          0: 0.2% covering 100.0% of volume
+[2021.09.18-10.00.09:955][685]LogVolumetricLightmapImport:          1: 5.5% covering 43.8% of volume
+[2021.09.18-10.00.09:955][685]LogVolumetricLightmapImport:          2: 94.3% covering 11.6% of volume
+[2021.09.18-10.00.10:021][685]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2021.09.18-10.00.10:021][685]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2021.09.18-10.00.10:021][685]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2021.09.18-10.00.10:022][685]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2021.09.18-10.00.10:022][685]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2021.09.18-10.00.10:022][685]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 512X128)
+[2021.09.18-10.00.10:029][685]LogStaticLightingSystem: Level_0_BuiltData storing lightmap data for 10 meshes in 2 LightmapResourceClusters (5.0 Meshes per cluster).
+[2021.09.18-10.00.10:058][685]Lightmass on LAPTOP-OI2QLG43: 3.05 sec total, 131 ms importing, 14 ms setup, 961 ms photons, 1.90 sec processing, 0 ms extra exporting [10/10 mappings]. Threads: 13.0 sec total, 794 ms processing.
+[2021.09.18-10.00.10:060][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.09.18-10.00.10:064][685]LogStaticLightingSystem: Illumination: 9.86 sec (44 ms encoding lightmaps, 12 ms encoding shadowmaps)
+[2021.09.18-10.00.10:064][685]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.09.18-10.00.10:064][685]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.09.18-10.00.10:871][685]DumpUnbuiltLightIteractions
+[2021.09.18-10.00.10:871][685]Lights with unbuilt interactions: 0
+[2021.09.18-10.00.10:871][685]
+[2021.09.18-10.00.10:871][685]Primitives with unbuilt interactions: 0
+[2021.09.18-10.00.10:874][685]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.09.18-10.00.10:924][686]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.09.18-10.00.10:925][686]MapCheck: New page: Level_0 - Sep 18, 2021, 9:00:10 PM
+[2021.09.18-10.00.10:925][686]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.268ms to complete.
+[2021.09.18-10.00.20:039][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.18-10.00.20:123][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Level_0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.18-10.00.20:152][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.09.18-10.00.20:299][787]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Level_03FE4F29E4FCF211390AC8692023AE859.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Level_0.umap'
+[2021.09.18-10.00.20:312][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0_BuiltData" FILE="D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Level_0_BuiltData.uasset" SILENT=true
+[2021.09.18-10.00.20:331][787]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Level_0_BuiltDataD557AB544DC2A6C4FF3C6A845380AB87.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Content/Level_0_BuiltData.uasset'
+[2021.09.18-10.10.16:738][311]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{a7bfd822-13d2-47ad-aff5-1a1dd6c9f0fc} was removed. Shutting down audio device.
+[2021.09.18-10.10.16:752][311]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.09.18-10.10.18:449][454]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.09.18-10.10.19:944][620]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.09.18-10.10.19:982][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.09.18-10.10.19:982][620]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_0' took 0.029
+[2021.09.18-10.10.19:983][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Man/Materials/M_Man_Cloth_Down_02] ([1] browsable assets)...
+[2021.09.18-10.10.19:994][620]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Man/Materials/M_Man_Cloth_Down_02.M_Man_Cloth_Down_02]
+[2021.09.18-10.10.19:994][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Man/Materials/M_Man_Cloth_Down_02]
+[2021.09.18-10.10.20:023][620]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/M_Man_Cloth_Down_02_Auto164A59830406C3A6204254588A66A6465.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Autosaves/Game/Man/Materials/M_Man_Cloth_Down_02_Auto1.uasset'
+[2021.09.18-10.10.20:023][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Shooter_assets/Guns/Barrel] ([1] browsable assets)...
+[2021.09.18-10.10.20:034][620]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Shooter_assets/Guns/Barrel.Barrel]
+[2021.09.18-10.10.20:034][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Shooter_assets/Guns/Barrel]
+[2021.09.18-10.10.20:074][620]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Barrel_Auto1D874612C41885FD513A4CFB7E82A3A82.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Autosaves/Game/Shooter_assets/Guns/Barrel_Auto1.uasset'
+[2021.09.18-10.10.20:087][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Shooter_assets/Guns/ScopeHandle] ([1] browsable assets)...
+[2021.09.18-10.10.20:098][620]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Shooter_assets/Guns/ScopeHandle.ScopeHandle]
+[2021.09.18-10.10.20:098][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Shooter_assets/Guns/ScopeHandle]
+[2021.09.18-10.10.20:128][620]LogSavePackage: Moving 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/ScopeHandle_Auto142EFD50F47411C60C2111DB8885055AA.tmp' to 'D:/UC/2021 SEM2/ICT Project/CT21S2-49/VR_shooter/Saved/Autosaves/Game/Shooter_assets/Guns/ScopeHandle_Auto1.uasset'
+[2021.09.18-10.10.20:129][620]LogFileHelpers: Auto-saving content packages took 0.146
